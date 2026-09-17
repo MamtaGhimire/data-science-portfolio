@@ -1,3 +1,7 @@
-# Projects
+## My Projects
 
-This page contains my data science projects.
+### Interactive Greeting Project
+
+My first Python project created in GitHub.
+
+[View Project](greeting-project)
